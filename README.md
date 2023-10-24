@@ -3,7 +3,7 @@
 - 🔭 Desenvolvedor Fullstack
 - 🌱 Estudante de tecnologias ligadas ao JS | Automação e Machine Learning
 - 👯 Não sou muito social, mas aceito collabs! 
-- 😄 Pronouns: Ele/dele
+- 💫 Pronouns: Ele/dele
 - 📫 Contato: wellersonfc@gmail.com 
 
 <br>
