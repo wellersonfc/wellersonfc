@@ -5,6 +5,7 @@
 - 👯 Não sou muito social, mas aceito collabs! 
 - 💫 Pronouns: Ele/dele
 - 📫 Contato: wellersonfc@gmail.com 
+-  <a href="https://www.linkedin.com/in/wellfc/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn Icon" style="width: 20px; height: 30px; border: 1px solid blue;">  wellfc</a> 
 
 <br>
 <div>
